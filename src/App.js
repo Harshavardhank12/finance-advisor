@@ -421,7 +421,7 @@ const parseBankCSV = (csvText) => {
             darkMode ? 'text-white' : 'text-gray-800'
           }`}>
             <img
-              src="/applogo.png"
+              src="/logo512.png"
               alt="MoneyMentor Logo"
               className="h-8 w-8 object-contain"
             />
